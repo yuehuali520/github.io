@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuehuali520.github.io</id>
-    <title>瞎搞搞</title>
-    <updated>2021-02-25T07:57:13.196Z</updated>
+    <title>咕噜咕噜鸟</title>
+    <updated>2021-02-25T07:59:24.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuehuali520.github.io"/>
     <link rel="self" href="https://yuehuali520.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>每天进步一点点</subtitle>
     <logo>https://yuehuali520.github.io/images/avatar.png</logo>
     <icon>https://yuehuali520.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 瞎搞搞</rights>
+    <rights>All rights reserved 2021, 咕噜咕噜鸟</rights>
     <entry>
         <title type="html"><![CDATA[1111]]></title>
         <id>https://yuehuali520.github.io/post/1111/</id>
